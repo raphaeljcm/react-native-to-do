@@ -1,1 +1,1 @@
-<img src=".github/about.png" alt="ToDo List Mobile Project" />
+<img src=".github/to-do.png" alt="ToDo List Mobile Project" />
